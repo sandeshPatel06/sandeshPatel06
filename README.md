@@ -1,7 +1,9 @@
 # Hi, I'm Sandesh Patel! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.dreamsofcode.vercel.app?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Web+Developer+%7C+Aspiring+Cybersecurity+Expert;Computer+Science+Student+%40+Govt+Polytechnic+Narsinghpur" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Web%20Developer%20%7C%20Aspiring%20Cybersecurity%20Expert-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Web Developer | Aspiring Cybersecurity Expert" />
+  <br/>
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student%20%40%20Govt%20Polytechnic%20Narsinghpur-8A2BE2?style=for-the-badge&logo=graduation&logoColor=white" alt="CSE Student" />
 </p>
 
 ### 👨‍💻 About Me
@@ -91,9 +93,14 @@ I'm a **Web Developer** and aspiring **Cybersecurity** enthusiast, currently pur
 
 ### 📊 GitHub Stats
 
-![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshPatel06&show_icons=true&theme=tokyonight&hide_rank=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshPatel06&layout=compact&theme=tokyonight)
+![Followers](https://img.shields.io/github/followers/sandeshPatel06?style=for-the-badge&logo=github&color=blue)
+![Total Stars](https://img.shields.io/github/stars/sandeshPatel06?style=for-the-badge&logo=github&color=yellow)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-29-2EA043?style=for-the-badge&logo=github&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/sandeshPatel06/sandeshPatel06?style=for-the-badge&logo=github&color=informational)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sandeshPatel06&theme=tokyonight)
+
+> 💡 *Live stats via [Shields.io](https://shields.io) & [streak-stats](https://streak-stats.demolab.com). (The `github-readme-stats` service was returning 503, so it was replaced with reliable badges.)*
 
 ---
 
