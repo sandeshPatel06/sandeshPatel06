@@ -1,18 +1,53 @@
 # Hi, I'm Sandesh Patel! 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer%20%7C%20Aspiring%20Cybersecurity%20Expert-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Web Developer | Aspiring Cybersecurity Expert" />
-  <br/>
-  <img src="https://img.shields.io/badge/Computer%20Science%20Student%20%40%20Govt%20Polytechnic%20Narsinghpur-8A2BE2?style=for-the-badge&logo=graduation&logoColor=white" alt="CSE Student" />
+  <a href="https://www.instagram.com/sandesh_patel007" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/SandeshPat007" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://www.linkedin.com/in/sandesh-patel07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sandeshpatel.sp.93@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/sandeshPatel06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-### 👨‍💻 About Me
-
-I'm a **Web Developer** and aspiring **Cybersecurity** enthusiast, currently pursuing a diploma in **Computer Science & Engineering** at **Govt Polytechnic College Narsinghpur**. I work full-time as an **Associate Developer at REAK INFOTECH LLP, Jabalpur**, where I build full-stack web apps and developer tooling. I love turning ideas into clean, working products — from Flask/Django backends to React Native mobile apps and browser extensions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Developer%20%7C%20Cybersecurity%20Enthusiast-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Web Developer | Cybersecurity Enthusiast" />
+  <br/>
+  <img src="https://img.shields.io/badge/CSE%20Student%20%40%20Govt%20Polytechnic%20Narsinghpur-8A2BE2?style=for-the-badge&logo=graduation&logoColor=white" alt="CSE Student" />
+  <img src="https://img.shields.io/badge/Associate%20Developer%20%40%20REAK%20INFOTECH%20LLP-FF69B4?style=for-the-badge&logo=workplace&logoColor=white" alt="REAK INFOTECH" />
+</p>
 
 ---
 
-### 🔧 Skills
+### 👨‍💻 About Me
+
+I'm **Sandesh Patel (Sandy)**, a passionate full-stack **Web Developer** and **Cybersecurity Enthusiast** pursuing a diploma in **Computer Science & Engineering** at **Govt Polytechnic College Narsinghpur**.
+
+I work full-time as an **Associate Developer at REAK INFOTECH LLP, Jabalpur**, building robust web applications, REST APIs, mobile apps, and automated software tools. I specialize in turning complex requirements into clean, production-ready systems — from Python (Django/Flask) backends to React Native mobile apps and browser extensions.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.instagram.com/sandesh_patel007" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@sandesh__patel007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/SandeshPat007" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-@SandeshPat007-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandesh-patel07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-sandesh--patel07-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sandeshpatel.sp.93@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sandeshpatel.sp.93@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/sandeshPatel06" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-sandeshPatel06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 🔧 Skills & Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -30,87 +65,68 @@ I'm a **Web Developer** and aspiring **Cybersecurity** enthusiast, currently pur
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-- **Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Languages:** Python, JavaScript, HTML5, CSS3, SQL
 - **Backend:** Django, Django REST Framework, Flask, SQLite, MySQL
-- **Frontend / Mobile:** React Native (Expo), Astro, Tailwind CSS, responsive web design
-- **DevOps / Tools:** Git & GitHub, Docker, VS Code, XAMPP
-- **Currently exploring:** AI agents, secure coding, and full-stack Django
+- **Frontend & Mobile:** React Native (Expo), Astro, Tailwind CSS, Responsive Web Design
+- **DevOps & Tools:** Git & GitHub, Docker, VS Code, Linux
+- **Currently Exploring:** AI Agents, Secure Coding Practices, & Advanced Django Architectures
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🤖 AI & Assistants
-- **[Jarvis AI Agent](https://github.com/sandeshPatel06/jarvis-ai)** *(private)* — Developer-focused AI assistant with session chat, memory, sandbox-safe file reader, code search, and allowlisted shell execution. RN/Expo mobile + web frontend with a Django backend, Dockerized.
+#### 🤖 AI & Voice Assistants
+- **[Jarvis AI Agent](https://github.com/sandeshPatel06/jarvis-ai)** — Developer-focused AI assistant with session chat, memory, code search, and sandboxed shell execution.
 - **[Jarvis Chat](https://github.com/sandeshPatel06/jarvis-chat-app)** — Real-time chat app (React Native/Expo + Django) with WebSockets, media sharing, and reactions.
-- **[Jarvis Chat (legacy)](https://github.com/sandeshPatel06/jarvis-chat-legacy)** *(private)* — Earlier variant of the Jarvis chat application.
-- **[Voice Assistant](https://github.com/sandeshPatel06/voice-assistant)** — Python voice assistant using `pyttsx3` + SpeechRecognition (Wikipedia, sites, music, email).
+- **[Jarvis Chat (Legacy)](https://github.com/sandeshPatel06/jarvis-chat-legacy)** — Early prototype variant of the Jarvis chat assistant.
+- **[Voice Assistant](https://github.com/sandeshPatel06/voice-assistant)** — Python desktop voice assistant using speech recognition and pyttsx3.
 
-#### 🌐 Web Apps (Flask / Django)
-- **[Motion Mart](https://github.com/sandeshPatel06/motion-mart-ecommerce)** — Full-featured Flask e-commerce platform with admin/seller/buyer roles, product management, and order processing.
-- **[Product Management System](https://github.com/sandeshPatel06/flask-product-management)** *(private)* — Flask shop with OTP-verified auth and admin dashboard.
-- **[Flask BMI Calculator](https://github.com/sandeshPatel06/flask-bmi-calculator)** — Web app to calculate and classify BMI.
-- **[Flask To-Do App](https://github.com/sandeshPatel06/flask-todo-app)** — Authenticated to-do list with SQLAlchemy.
-- **[Django Tourism Site](https://github.com/sandeshPatel06/django-tourism-site)** — Tourism platform with accounts, destinations, and testimonials.
-- **[Django REST Test API](https://github.com/sandeshPatel06/django-rest-test-api)** — Learning project with Django REST Framework serializers.
-- **[e-Learning Platform](https://github.com/sandeshPatel06/e-learning-platform)** — Course platform with enrollment via Google Forms.
+#### 🌐 Web Applications (Flask / Django)
+- **[Motion Mart](https://github.com/sandeshPatel06/motion-mart-ecommerce)** — Full-featured Flask e-commerce marketplace for video motion templates.
+- **[Flask Product Management](https://github.com/sandeshPatel06/flask-product-management)** — E-commerce product inventory management app with OTP authentication.
+- **[Flask BMI Calculator](https://github.com/sandeshPatel06/flask-bmi-calculator)** — Web application for calculating and classifying BMI.
+- **[Flask To-Do App](https://github.com/sandeshPatel06/flask-todo-app)** — Task management web application built with Flask & SQLAlchemy.
+- **[Django Tourism Site](https://github.com/sandeshPatel06/django-tourism-site)** — Tourism and travel booking website built with Django.
+- **[Django REST Test API](https://github.com/sandeshPatel06/django-rest-test-api)** — REST API testing service built with Django REST Framework.
+- **[e-Learning Platform](https://github.com/sandeshPatel06/e-learning-platform)** — Educational platform for online courses and lessons.
 
 #### 📱 Mobile Apps (React Native / Expo)
-- **[Play – Audio App](https://github.com/sandeshPatel06/play-audio-app)** — Mobile-first audio streaming app built with Expo.
-- **[To-Do List (Mobile)](https://github.com/sandeshPatel06/todo-list-mobile-app)** *(private)* — Cross-platform todo app.
+- **[Play – Audio App](https://github.com/sandeshPatel06/play-audio-app)** — Mobile audio streaming player application built with Expo.
+- **[To-Do List (Mobile)](https://github.com/sandeshPatel06/todo-list-mobile-app)** — Cross-platform mobile task management application.
 
 #### 🧩 Browser Extensions
-- **[Chrome Tab Manager](https://github.com/sandeshPatel06/chrome-tab-manager)** *(private)* — Remove duplicate tabs and group by domain (Discord-themed UI).
-- **[Chrome Tab URL Extractor](https://github.com/sandeshPatel06/chrome-tab-url-extractor)** — Extract open tab URLs with one click.
+- **[Chrome Tab Manager](https://github.com/sandeshPatel06/chrome-tab-manager)** — Extension to remove duplicate tabs and organize tabs by domain.
+- **[Chrome Tab URL Extractor](https://github.com/sandeshPatel06/chrome-tab-url-extractor)** — Quick tab URL extraction tool.
 
-#### 🛠️ Tools & Utilities
-- **[File Hash Monitor](https://github.com/sandeshPatel06/file-hash-monitor)** *(private)* — Python SHA-256 file-change monitor.
-- **[Text-to-Speech (gTTS)](https://github.com/sandeshPatel06/flask-text-to-speech-gtts)** — Multilingual Flask TTS using Google TTS.
-- **[Text-to-Speech (pyttsx3)](https://github.com/sandeshPatel06/flask-text-to-speech-pyttsx3)** — Offline Flask TTS using pyttsx3.
-- **[Rock Paper Scissors](https://github.com/sandeshPatel06/rock-paper-scissors-game)** — Browser-based RPS game.
-- **[SH Pixel App](https://github.com/sandeshPatel06/sh-pixel-app)** — Full-stack web application.
+#### 🛠️ Utilities & Libraries
+- **[File Hash Monitor](https://github.com/sandeshPatel06/file-hash-monitor)** — Python SHA-256 directory file integrity monitor.
+- **[Text-to-Speech (gTTS)](https://github.com/sandeshPatel06/flask-text-to-speech-gtts)** — Flask TTS service using Google Text-to-Speech.
+- **[Text-to-Speech (pyttsx3)](https://github.com/sandeshPatel06/flask-text-to-speech-pyttsx3)** — Offline Flask text-to-speech app using pyttsx3.
+- **[Rock Paper Scissors](https://github.com/sandeshPatel06/rock-paper-scissors-game)** — Interactive browser game.
+- **[SH Pixel App](https://github.com/sandeshPatel06/sh-pixel-app)** — Web graphic pixel art editor application.
 
 #### 🌍 Static Websites
-- **[Portfolio (Astro)](https://github.com/sandeshPatel06/portfolio-astro)** — Modern portfolio built with Astro + Tailwind, deployed to GitHub Pages.
-- **[Portfolio (HTML)](https://github.com/sandeshPatel06/portfolio-html)** — Lightweight static portfolio site.
-- **[Jewellery Store](https://github.com/sandeshPatel06/jewellery-store)** — Static jewellery e-commerce showcase.
-- **[My LPG](https://github.com/sandeshPatel06/my-lpg-website)** — LPG info/booking site.
-- **[CM Helpline Portal](https://github.com/sandeshPatel06/cm-helpline-portal)** — Government grievance/helpline portal.
-- **[Travel Booking Site](https://github.com/sandeshPatel06/travel-booking-site)** — Static tour booking site.
-- **[AAN Tourism Site](https://github.com/sandeshPatel06/aan-tourism-site)** — Temple/destination tourism site.
-- **[BMI Calculator (static)](https://github.com/sandeshPatel06/bmi-calculator-static)** — Static BMI calculator.
+- **[Portfolio (Astro)](https://github.com/sandeshPatel06/portfolio-astro)** — Modern portfolio built with Astro & Tailwind CSS.
+- **[Portfolio (HTML)](https://github.com/sandeshPatel06/portfolio-html)** — Clean, lightweight static developer portfolio.
+- **[Jewellery Store](https://github.com/sandeshPatel06/jewellery-store)** — E-commerce showcase for jewellery.
+- **[My LPG Website](https://github.com/sandeshPatel06/my-lpg-website)** — LPG cylinder info and booking web interface.
+- **[CM Helpline Portal](https://github.com/sandeshPatel06/cm-helpline-portal)** — Citizen helpline support portal.
+- **[Travel Booking Site](https://github.com/sandeshPatel06/travel-booking-site)** — Responsive travel booking website layout.
+- **[AAN Tourism Site](https://github.com/sandeshPatel06/aan-tourism-site)** — Tourism guide website layout.
+- **[BMI Calculator (Static)](https://github.com/sandeshPatel06/bmi-calculator-static)** — Responsive static BMI calculator.
 
-> 📂 Browse the full collection: **[All Repositories](https://github.com/sandeshPatel06?tab=repositories)**
-
----
-
-### 🌱 Currently Learning
-- Cybersecurity fundamentals & secure coding
-- Advanced Django full-stack development
-- Building AI agents and developer tooling
+> 📂 Browse all repositories: **[github.com/sandeshPatel06](https://github.com/sandeshPatel06?tab=repositories)**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 ![Followers](https://img.shields.io/github/followers/sandeshPatel06?style=for-the-badge&logo=github&color=blue)
 ![Total Stars](https://img.shields.io/github/stars/sandeshPatel06?style=for-the-badge&logo=github&color=yellow)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-29-2EA043?style=for-the-badge&logo=github&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/sandeshPatel06/sandeshPatel06?style=for-the-badge&logo=github&color=informational)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-30-2EA043?style=for-the-badge&logo=github&logoColor=white)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sandeshPatel06&theme=tokyonight)
 
-> 💡 *Live stats via [Shields.io](https://shields.io) & [streak-stats](https://streak-stats.demolab.com). (The `github-readme-stats` service was returning 503, so it was replaced with reliable badges.)*
-
 ---
 
-### 📫 Let's Connect
-- 📧 **Email:** [sandeshpatel.sp.93@gmail.com](mailto:sandeshpatel.sp.93@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/sandesh-patel07](https://www.linkedin.com/in/sandesh-patel07)
-- 🐙 **GitHub:** [github.com/sandeshPatel06](https://github.com/sandeshPatel06)
-- 🐦 **Twitter:** [@SandeshPat007](https://x.com/SandeshPat007)
-- 📸 **Instagram:** [@sandesh_patel007](https://www.instagram.com/sandesh_patel007)
-
----
-
-> 💡 *Always eager to collaborate on web development, AI, and cybersecurity projects — let's build something great!*
+> 💡 *Always eager to collaborate on web development, AI agents, and cybersecurity projects — let's connect and build something great!*
