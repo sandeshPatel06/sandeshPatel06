@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer%20%7C%20Cybersecurity%20Enthusiast-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Web Developer | Cybersecurity Enthusiast" />
+  <img src="https://img.shields.io/badge/Web%20Developer%20%7C%20Cybersecurity%20Enthusiast-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Web Developer" />
   <br/>
   <img src="https://img.shields.io/badge/CSE%20Student%20%40%20Govt%20Polytechnic%20Narsinghpur-8A2BE2?style=for-the-badge&logo=graduation&logoColor=white" alt="CSE Student" />
   <img src="https://img.shields.io/badge/Associate%20Developer%20%40%20REAK%20INFOTECH%20LLP-FF69B4?style=for-the-badge&logo=workplace&logoColor=white" alt="REAK INFOTECH" />
@@ -19,9 +19,9 @@
 
 ### 👨‍💻 About Me
 
-I'm **Sandesh Patel (Sandy)**, a passionate full-stack **Web Developer** and **Cybersecurity Enthusiast** pursuing a diploma in **Computer Science & Engineering** at **Govt Polytechnic College Narsinghpur**.
+I'm **Sandesh Patel**, a passionate full-stack **Web Developer** who completed a diploma in **Computer Science & Engineering** at **Govt Polytechnic College Narsinghpur (2022-25)**.
 
-I work full-time as an **Associate Developer at REAK INFOTECH LLP, Jabalpur**, building robust web applications, REST APIs, mobile apps, and automated software tools. I specialize in turning complex requirements into clean, production-ready systems — from Python (Django/Flask) backends to React Native mobile apps and browser extensions.
+I work full-time as an **Associate Developer at REAK INFOTECH LLP, Jabalpur**, building robust web applications using **Go (Golang)**, **Vue.js**, **TypeScript**, and **Tailwind CSS**. Alongside core backend and frontend development, I handle junior-level project management responsibilities—making key technical decisions for live production-running systems. Currently, I am actively contributing to a live **web streaming platform integrated with hardware and machines**.
 
 ---
 
@@ -49,27 +49,32 @@ I work full-time as an **Associate Developer at REAK INFOTECH LLP, Jabalpur**, b
 
 ### 🔧 Skills & Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-- **Languages:** Python, JavaScript, HTML5, CSS3, SQL
-- **Backend:** Django, Django REST Framework, Flask, SQLite, MySQL
-- **Frontend & Mobile:** React Native (Expo), Astro, Tailwind CSS, Responsive Web Design
-- **DevOps & Tools:** Git & GitHub, Docker, VS Code, Linux
-- **Currently Exploring:** AI Agents, Secure Coding Practices, & Advanced Django Architectures
+- **Go (Golang):** Vanilla Go, Pagoda Framework
+- **Python:** Django, Django REST Framework, Flask
+- **JavaScript & TypeScript:** Vue.js, React
+- **Mobile Development:** React Native, Expo
+- **Frontend & Styling:** Tailwind CSS, HTML5, CSS3, Responsive Web Design
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **DevOps & Infrastructure:** Kubernetes, Docker, Git & GitHub, Linux
+- **Currently Exploring:** AI Agents & Memory Systems, Kubernetes Pod & Cluster Management, High-Performance PostgreSQL Indexing & Query Optimization, Hardware-Integrated Streaming Systems
 
 ---
 
